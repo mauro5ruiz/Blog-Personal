@@ -13,3 +13,9 @@ h1{
     padding: 0 40px;
     color:white;
 }
+.cabecera{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
