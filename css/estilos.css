@@ -20,7 +20,8 @@ h1{
     box-shadow: 4px;
 }
 h2 {
-    background-color:burlywood;
+    background-color:goldenrod;
+    border-radius: 1px;
     width: 90%;
     margin: 0 0 0 1em;
     text-align: center;
