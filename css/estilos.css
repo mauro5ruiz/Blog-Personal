@@ -1,6 +1,15 @@
-
+*{
+    background-color: black;
+}
 h1{
-    color: blue;
+    color: red;
     text-align: center;
-    font-size: 18px;
+    font-size: 38px;
+}
+
+.container{
+    margin: 20px;
+    border: 1px solid salmon;
+    padding: 0 40px;
+    color:white;
 }
