@@ -13,3 +13,16 @@ h1{
     padding: 0 40px;
     color:white;
 }
+.cabecera{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 4px;
+    box-shadow: 4px;
+}
+h2 {
+    background-color:burlywood;
+    width: 90%;
+    margin: 0 0 0 1em;
+    text-align: center;
+    padding-left: 5%;
+}
